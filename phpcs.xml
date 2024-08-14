@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ruleset name="Custom Coding Standard">
+    <description>My coding standard</description>
+    <rule ref="PSR2"/>
+    <rule ref="Squiz.Strings.DoubleQuoteUsage"/>
+    <rule ref="Squiz.WhiteSpace.FunctionSpacing"/>
+</ruleset>
